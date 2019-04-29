@@ -1,7 +1,5 @@
 # Data Science Quiz
 
----
-
 ### Instructions
 
 - Fork and Clone
