@@ -1,4 +1,14 @@
-# data science quiz
+# Data Science Quiz
+
+---
+
+### Instructions
+
+- Fork and Clone
+- Work on quiz
+- Push back up to your repository
+
+### Questions
 
 1. A vector is given, `[2,3,9]`. What's the norm?
 
